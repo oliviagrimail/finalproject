@@ -1,3 +1,6 @@
 # Final Project
-This project was originally going to feature 3 games: Hangman, Tic-Tac-Toe, and Rock Paper Scissors. 
-But now as I am getting more into the coding I think it is more beneficial to stick to just Hangman and polish it, for better quality. 
+Course: Programming 2, COP 3003
+Title: Hangman
+This project will function as a normal hangman game, using ascii art. I picked this project to make because I grew up playing this game in school and thought it would be a great project idea to recreate. 
+Game Maintainers:
+oliviagrimail
